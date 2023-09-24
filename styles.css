@@ -11,6 +11,9 @@
 	box-shadow: 0 0 10px rgba(0, 0, 0, 50);
 	border-radius: 5.5px;
 	text-align: left;
+	margin-top:0px;
+	padding-top: 50px;
+	padding-bottom: 40px;
 }
  #name {
 	background:#ebf3fe;
@@ -27,6 +30,7 @@
 	border-radius: 3.2px;
 	padding : 5px;
 	width:80px;
+	margin-top:10px
 }
 #submit:hover{
 	cursor:pointer;
