@@ -12,6 +12,23 @@
 	border-radius: 5.5px;
 	text-align: left;
 }
- #name #phone address{
+ #name {
 	background:#ebf3fe;
+}
+#address{
+	background:#ebf3fe;
+}
+#phone{
+	background:#ebf3fe;
+}
+#submit{
+	background:#3ea6ffff;
+	color:beige;
+	border-radius: 3.2px;
+	padding : 5px;
+	width:80px;
+}
+#submit:hover{
+	cursor:pointer;
+	color:#c0504dff;
 }
